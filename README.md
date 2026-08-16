@@ -1,5 +1,8 @@
 # Desktop Air Alert
 
+## About
+When in your city/region start air alert, enable sound by buzzer, which you can turn off by sensor touch. Also it will blank by LED diod
+
 ## Prerequisites
 VSCode extension: [PlatformIO](https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide)
 
